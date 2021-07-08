@@ -1,7 +1,6 @@
 ### DESCRIPTION
   - I am just excited to build a Machine learning python application which predicts whether a banknote is authentic or not.
   - The application is containerized with Docker container and deployed with Kubernetes Engine in Google Cloud Platform.
-  - 
 
 ## MOTIVATION
 - Web scrapping is one of the most famous strategy in data collection from the internet. 
