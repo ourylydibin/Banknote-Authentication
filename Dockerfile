@@ -3,7 +3,7 @@ RUN pip install virtualenv
 ENV VIRTUAL_ENV=/venv
 RUN virtualenv venv -p python3
 ENV PATH="VIRTUAL_ENV/bin:$PATH"
-COPY . /app
+ADD . /app
 WORKDIR app
 ENV PORT 8080
 RUN pip install -r requirements.txt
