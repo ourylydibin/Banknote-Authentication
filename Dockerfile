@@ -5,6 +5,6 @@ RUN virtualenv venv -p python3
 ENV PATH="VIRTUAL_ENV/bin:$PATH"
 COPY . /app
 WORKDIR app
-EXPOSE 8080
+ENV PORT 8080
 RUN pip install -r requirements.txt
-ENTRYPOINT ["python", "app.py"] 
+ENTRYPOINT ["gunicorn", "app:app", "--config=config.py"] 
