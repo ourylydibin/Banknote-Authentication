@@ -31,6 +31,11 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 #### You can access the application [here](http://34.94.25.222/).
 #### Note: Making a query may take few secondes to load the data sometimes, as the server may be in hibernate state.
 
+## CHALLENGES
+- The issue was that after installing docker it was not starting. After reading some Stackoverflow pages they were saying that I had to enable the vitual machine. Once I did that from the Bios it works.
+- I had other issues when creating the Dockerfile. Docker could not build the docker image because I did not include the right base image in the file. It worked after I pulled the right image.
+- I had also problems with misunderstanding some docker and Kubernetes commands. But everything was solved after reading some blogs.   
+
 ## How to use
 - In the application bars type only numerical values(positive of negative values). If you type other than numerical values you will be getting an error.
 
@@ -48,18 +53,12 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.
 
 ## Further Improvements
-This was my first web scrapping project so there are things to improve upon
+There are somethings to improve upon
 
 - CSS style is not in the CSS folder instead I have included the style in the html code. When I included the CSS in the CSS folder, it was not having effect on the application interface :cry:
-- Frontend can be made more nicer (I am exploring frontend development) :monocle_face:	
-- Data is only scrapped from the displayed pages on Flipkart website. One cool **contribution is to scrap the data even from hidden pages**.
+- One can include a deep learning model in the model selection as one of the candidate.
 - The application can be modularized.
-
-## Upcoming project about web scrapping 
- - My upcoming project about web scrapping will be image scraping. 
- - All the project will be committed to my Github.
-
-
+- 
 ## Contact
 
 #### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/m-oury-ly-724960a9/)
