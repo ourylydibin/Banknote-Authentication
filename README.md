@@ -24,6 +24,7 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 <code><img height="30" src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg"></code>
 <code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
+<code><img height="50" src="https://github.com/ourylydibin/Banknote-Authentication/blob/main/static/css/gcp.jpg"></code>
 
 ## DEPLOYMENT
 #### This application is deployed to [GCP](https://console.cloud.google.com/billing/0105E0-BA667B-65E7D2?organizationId=4929429979).
