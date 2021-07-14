@@ -32,7 +32,7 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 #### Note: Making a query may take few secondes to load the data sometimes, as the server may be in hibernate state.
 
 ## CHALLENGES
-- The issue was that after installing docker it was not starting. After reading some Stackoverflow pages they were saying that I had to enable the vitual machine. Once I did that from the Bios it works.
+- The issue was that after installing docker it was not starting. After reading some Stackoverflow pages they were saying that I had to enable the virtual machine. Once I did that from the Bios it worked.
 - I had other issues when creating the Dockerfile. Docker could not build the docker image because I did not include the right base image in the file. It worked after I pulled the right image.
 - I had also problems with misunderstanding some docker and Kubernetes commands. But everything was solved after reading some blogs.   
 
