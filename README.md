@@ -5,7 +5,7 @@
 ## MOTIVATION
 - To gain experience in executing life-cycle of data science projects(data collection, feature engineering, feature selection, model selection, model hyper parameter tuning and model deployment). To also have knowledge of Google Cloud Platform.  
 - To contribute on sharing knowledge to the data science community. 
--  I have seen many times fraudulent clients bringing unauthentic banknotes to buy merchandises from my father's shop. We always realize the banknotes are not authentic after the client is gone because we did not have the tool to do a direct checking once the client give the banknote. So these events trigger my curiosity to build this king a of application.  
+-  I have seen many times fraudulent clients bringing unauthentic banknotes to buy merchandises from my father's shop. We always realize the banknotes are not authentic after the client is gone because we did not have the tool to do a direct checking once the client give the banknote. So these events trigger my curiosity to build this kind a of application.  
 
 ## DATA SOURCE
 The data is scrapped from [Flipkart website](https://www.flipkart.com/).
