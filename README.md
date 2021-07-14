@@ -1,11 +1,11 @@
 ### DESCRIPTION
-  - I am just excited to build a Machine learning python application which predicts whether a banknote is authentic or not.
+  - A Machine learning application to predict whether or not a banknote is authentic.
   - The application is containerized with Docker container and deployed with Kubernetes Engine in Google Cloud Platform.
 
 ## MOTIVATION
-- Web scrapping is one of the most famous strategy in data collection from the internet. 
+- To gain experience in executing life-cycle of data science projects(data collection, feature engineering, feature selection, model selection, model hyper parameter tuning, and model deployment.  
 
--  MongoDb Atlas is a very simple and important NoSQL database to understand. It stores the data in the cloud.
+-  To horn expertise on . It stores the data in the cloud.
 
 - Building an application using Atlas and a scrapper will help to understand a lot things about  web scrapping, how to use Atlas at the back-end and also how a python application stores and retrieves the data using MongoDb Atlas.
 
