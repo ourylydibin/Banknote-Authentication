@@ -3,9 +3,9 @@
   - The application is containerized with Docker container and deployed with Kubernetes Engine in Google Cloud Platform.
 
 ## MOTIVATION
-- To gain experience in executing life-cycle of data science projects(data collection, feature engineering, feature selection, model selection, model hyper parameter tuning, and model deployment.  
+- To gain experience in executing life-cycle of data science projects(data collection, feature engineering, feature selection, model selection, model hyper parameter tuning and model deployment). To also have knowledge of Google Cloud Platform.  
 
--  To horn expertise on . It stores the data in the cloud.
+-  I have seen many times fraudulent clients bringing unauthentic banknotes to buy merchandises from my father's shop. We always realize the banknotes are not authentic after the client is gone because we did note have the tool to do a direct checking once the client give the banknote. So these events trigger my curiosity to build this king a of application.  
 
 - Building an application using Atlas and a scrapper will help to understand a lot things about  web scrapping, how to use Atlas at the back-end and also how a python application stores and retrieves the data using MongoDb Atlas.
 
