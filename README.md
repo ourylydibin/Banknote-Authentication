@@ -41,7 +41,7 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 
    ### Reviews Scrapping
 
-![demo](https://media.giphy.com/media/d8blqgLOz2EHBwxQnz/giphy.gif)
+![demo](https://media.giphy.com/media/lq3S0nEtG2xTRMd5kA/giphy.gif)
 
 
 ## Usage
