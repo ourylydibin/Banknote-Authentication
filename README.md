@@ -32,9 +32,9 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 #### Note: Making a query may take few secondes to load the data sometimes, as the server may be in hibernate state.
 
 ## How to use
-- In the application search bar type only products related to mobiles phones, electronics and fornitures as the website is selling those items.
+- In the application bars type type only numerical values(positive of negative values). If you type other than numerical values you will be getting an error.
 
-- Once you type the product name (e.g. sumsung ), click to submit botton and the informations about the product will get displayed in form of a table.
+- Once you type the convinient values click on the submit botton to get the result of the prediction.
   
   
 ## DEMO
