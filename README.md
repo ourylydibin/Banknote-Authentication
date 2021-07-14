@@ -32,7 +32,7 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 #### Note: Making a query may take few secondes to load the data sometimes, as the server may be in hibernate state.
 
 ## How to use
-- In the application bars type type only numerical values(positive of negative values). If you type other than numerical values you will be getting an error.
+- In the application bars type only numerical values(positive of negative values). If you type other than numerical values you will be getting an error.
 
 - Once you type the convinient values click on the submit botton to get the result of the prediction.
   
