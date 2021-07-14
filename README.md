@@ -8,7 +8,7 @@
 -  I have seen many times fraudulent clients bringing unauthentic banknotes to buy merchandises from my father's shop. We always realize the banknotes are not authentic after the client is gone because we did not have the tool to do a direct checking once the client give the banknote. So these events trigger my curiosity to build this kind a of application.  
 
 ## DATA SOURCE
-The data is scrapped from [Flipkart website](https://www.flipkart.com/).
+The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data).
 # Built with
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
