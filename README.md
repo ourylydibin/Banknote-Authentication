@@ -26,8 +26,8 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 
 ## DEPLOYMENT
-#### This application is deployed to [Heroku](https://www.heroku.com/).
-#### You can access the application [here](https://reviews-scrapping-flipkart.herokuapp.com/).
+#### This application is deployed to [GCP](https://console.cloud.google.com/billing/0105E0-BA667B-65E7D2?organizationId=4929429979).
+#### You can access the application [here](http://34.94.25.222/).
 #### Note: Making a query may take few secondes to load the data sometimes, as the server may be in hibernate state.
 
 ## How to use
