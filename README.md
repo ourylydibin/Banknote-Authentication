@@ -1,6 +1,6 @@
 ### DESCRIPTION
   - A Machine learning application to predict whether or not a banknote is authentic.
-  - The application is containerized with Docker container and deployed with Kubernetes Engine in Google Cloud Platform.
+  - The application was containerized with Docker container and deployed with Kubernetes Engine in Google Cloud Platform.
 
 ## MOTIVATION
 - To gain experience in executing life-cycle of data science projects(data collection, feature engineering, feature selection, model selection, model hyper parameter tuning and model deployment). To also have knowledge of Google Cloud Platform.  
