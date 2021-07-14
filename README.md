@@ -37,9 +37,9 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 - I had also problems with misunderstanding some docker and Kubernetes commands. But everything was solved after reading some blogs.   
 
 ## How to use
-- In the application bars type only numerical values(positive of negative values). If you type other than numerical values you will be getting an error.
+- In the application bars, type only numerical values(positive of negative values). If you type other than numerical values you will be getting an error.
 
-- Once you type the convinient values click on the submit botton to get the result of the prediction.
+- Once you type the convenient values, click on the submit botton to get the result of the prediction.
   
   
 ## DEMO
