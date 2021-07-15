@@ -3,16 +3,15 @@
   - The application was containerized with Docker container and deployed with Kubernetes Engine in Google Cloud Platform.
 
 ## DISCLAIMER ⚠️
-This is a POC(Proof of concept) kind-of project. The data used here comes up with no guarantee from the creator. So, don't use it for making farming decisions. If you do so, the creator is not responsible for anything. However, this project presents the idea that how we can use ML/DL into precision farming if developed at large scale and with authentic and verified data.
+This project is a POC(Proof of concept). It is an End-to-End project to present the idea that how we can use ML into precision banknote authentication if developped at large scale with enough data. So don't use it for making diabetes decisions. 
 
-## MOTIVATION
-- To gain experience in executing life-cycle of data science projects(data collection, feature engineering, feature selection, model selection, model hyper parameter tuning and model deployment). To also have knowledge of Google Cloud Platform.  
+## MOTIVATION 💪  
 - To contribute on sharing knowledge to the data science community. 
 -  I have seen many times fraudulent clients bringing unauthentic banknotes to buy merchandises from my father's shop. We always realized the banknotes was not authentic after the client was gone because we did not have the tool for a direct check of the banknote once the client gave the banknote. So these events have triggered my curiosity to build this kind a of application.  
 
-## DATA SOURCE
+## DATA SOURCE 📊
 The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data).
-# Built with
+# Built with 🛠️
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -28,7 +27,7 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="50" src="https://github.com/ourylydibin/Banknote-Authentication/blob/main/static/css/gcp.jpg"></code>
 
-## DEPLOYMENT
+## DEPLOYMENT 🚀
 #### This application is deployed to [GCP](https://console.cloud.google.com/billing/0105E0-BA667B-65E7D2?organizationId=4929429979).
 #### You can access the application [here](http://34.94.25.222/).
 #### Note: Making a query may take few secondes to load the data sometimes, as the server may be in hibernate state.
@@ -54,13 +53,13 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 ## Usage
 You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.
 
-## Further Improvements
+## Further Improvements 📈
 There are somethings to improve upon
 
 - CSS style is not in the CSS folder instead I have included the style in the html code. When I included the CSS in the CSS folder, it was not having effect on the application interface :cry:
 - One can include a deep learning model in the model selection as one of the candidate.
 - The application can be modularized.
 - 
-## Contact
+## Contact 📞
 
 #### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/m-oury-ly-724960a9/)
