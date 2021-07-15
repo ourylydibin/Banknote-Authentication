@@ -2,6 +2,9 @@
   - A Machine learning application to predict whether or not a banknote is authentic.
   - The application was containerized with Docker container and deployed with Kubernetes Engine in Google Cloud Platform.
 
+## DISCLAIMER ⚠️
+This is a POC(Proof of concept) kind-of project. The data used here comes up with no guarantee from the creator. So, don't use it for making farming decisions. If you do so, the creator is not responsible for anything. However, this project presents the idea that how we can use ML/DL into precision farming if developed at large scale and with authentic and verified data.
+
 ## MOTIVATION
 - To gain experience in executing life-cycle of data science projects(data collection, feature engineering, feature selection, model selection, model hyper parameter tuning and model deployment). To also have knowledge of Google Cloud Platform.  
 - To contribute on sharing knowledge to the data science community. 
