@@ -7,7 +7,7 @@ This project is a POC(Proof of concept). It is an End-to-End project to present 
 
 ## MOTIVATION 💪  
 - To contribute on sharing knowledge to the data science community. 
--  I have seen many times fraudulent clients bringing unauthentic banknotes to buy merchandises from my father's shop. We always realized the banknotes was not authentic after the client was gone because we did not have the tool to verify the banknote once the client gave the banknote. So these events triggered my curiosity to build this kind of application.  
+-  I have seen many times fraudulent clients bringing unauthentic banknotes to buy merchandises from my father's shop. We realized the banknotes were  not authentic after the client was gone because we did not have the tool to verify the banknote. So these events triggered my curiosity to build application.  
 
 ## DATA SOURCE 📊
 The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data).
