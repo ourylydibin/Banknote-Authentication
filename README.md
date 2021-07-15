@@ -1,4 +1,4 @@
-### DESCRIPTION
+### DESCRIPTION  <code><img height="30" src="https://github.com/ourylydibin/Banknote-Authentication/blob/main/static/css/bn.jpg"></code>
   - A Machine learning application to predict whether or not a banknote is authentic.
   - The application was containerized with Docker container and deployed with Kubernetes Engine in Google Cloud Platform.
 
@@ -17,7 +17,6 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
 <code><img height="50" src="https://symbols.getvecta.com/stencil_80/56_flask.3a79b5a056.jpg"></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png"></code>
 <code><img height="50" src="https://github.com/ourylydibin/Banknote-Authentication/blob/main/static/css/dockerr.jpg"></code>
-<code><img height="50" src="https://github.com/ourylydibin/Banknote-Authentication/blob/main/static/css/jpg_4.jpg"></code>
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg"></code>
